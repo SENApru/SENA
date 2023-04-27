@@ -1,8 +1,8 @@
 h2{
     font-family: Verdana;
-    color: #ddfcfc;
+    color: #060e0a;
     text-align: center;
-    background-color: #038C8C;
+    background-color: #4664eb;
 }
 
 h3{
@@ -13,26 +13,26 @@ h3{
 
 
 fieldset{
-    border-color: #04D9D9;
+    border-color: #205bc9;
     margin-top: 1em;
-    background-color: #F2F2F2;
+    background-color: #6779cac5;
 }
 
 legend{
-    border:2px solid #038C8C;
+    border:2px solid #130650;
     font-family: Verdana;
     border-radius:8px;
     font-size: large;
-    color: #ddfcfc;
-    background-color: #038C8C;
+    color: #dde3e4;
+    background-color: #0e2c8196;
 }
 
 #informacion{
     margin: 10px;
     width: 19em;
-    float: left;
+    float: right;
     height: 98%;
-    background-color: #45C4C4;
+    background-color: #4664eb;
 }
 
 
@@ -43,7 +43,7 @@ legend{
 .foto{
     margin: auto;
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
 
 
